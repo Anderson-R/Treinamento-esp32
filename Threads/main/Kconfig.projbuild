@@ -1,0 +1,39 @@
+menu "Thread Configuration"
+
+    config THREAD_1_MESSAGE
+        string "Thread1 Message"
+        default "Thread1 Message"
+        help
+            Set the message.
+
+    config THREAD_1_NUMBER
+        int "Thread1 number"
+        default 1
+        help
+            Set the thread1 number.
+
+    config THREAD_2_MESSAGE
+        string "Thread2 Message"
+        default "Thread2 Message"
+        help
+            Set the message.
+
+    config THREAD_2_NUMBER
+        int "Thread2 number"
+        default 2
+        help
+            Set the thread2 number.
+    
+    config THREAD_3_MESSAGE
+        string "Thread3 Message"
+        default "Thread3 Message"
+        help
+            Set the message.
+
+    config THREAD_3_NUMBER
+        int "Thread3 number"
+        default 3
+        help
+            Set the thread3 number.
+
+endmenu

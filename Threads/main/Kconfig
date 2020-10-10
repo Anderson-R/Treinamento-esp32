@@ -1,0 +1,15 @@
+menu "Thread Configuration"
+
+    config THREAD_4_MESSAGE
+        string "Thread1 Message"
+        default "Thread1 Message"
+        help
+            Set the message.
+
+    config THREAD_4_NUMBER
+        int "Thread1 number"
+        default 1
+        help
+            Set the thread1 number.
+
+endmenu

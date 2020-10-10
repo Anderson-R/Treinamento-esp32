@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/makia/esp/Treinamento-esp32/Threads/build/CMakeFiles/bootloader
+C:/Users/makia/esp/Treinamento-esp32/Threads/build/CMakeFiles/bootloader.rule
+C:/Users/makia/esp/Treinamento-esp32/Threads/build/CMakeFiles/bootloader-complete.rule
+C:/Users/makia/esp/Treinamento-esp32/Threads/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/makia/esp/Treinamento-esp32/Threads/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/makia/esp/Treinamento-esp32/Threads/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/makia/esp/Treinamento-esp32/Threads/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+C:/Users/makia/esp/Treinamento-esp32/Threads/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/makia/esp/Treinamento-esp32/Threads/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/makia/esp/Treinamento-esp32/Threads/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
